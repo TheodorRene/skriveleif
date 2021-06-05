@@ -5,7 +5,6 @@ Enable spelling for English and Norwegian in markdown and mutt with convenient k
 ~~~
 <leader>+z
 ~~~
-
 mnemonic: zhow zee zuggestionz
 
 ## Add word to dictionary
