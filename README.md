@@ -19,6 +19,13 @@ mnemonic: Add
 ~~~
 mnemonic: Xecute this spelling error, please
 
+## Installation
+If you are using [VimPlug](https://github.com/junegunn/vim-plug) it can be
+installed by adding this line to you configuration:
+~~~
+Plug 'TheodorRene/skriveleif' 
+~~~
+
 ## Tips
 The leader key is by default set to "\", but many like to change it to space like so:
 ~~~
